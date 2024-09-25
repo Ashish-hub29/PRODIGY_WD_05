@@ -1,0 +1,42 @@
+body {
+    background-image: url(WhatsApp\ Image\ 2024-09-22\ at\ 8.18.11\ AM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+   
+
+  
+}
+h1{
+    font-size: 70px;
+    color: rgb(12, 1, 1);
+}
+
+.container {
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+input[type="text"] {
+    font-size: 25px;
+    padding: 10px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+#weather-info {
+    margin-top: 20px;
+    color: aqua;
+}
